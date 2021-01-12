@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035945197654",
+    "project_id": "baratinha-77805",
+    "storage_bucket": "baratinha-77805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035945197654:android:4fd8913f15d2a438713bf7",
+        "android_client_info": {
+          "package_name": "baratinha.baratinha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035945197654-e66av94v897elbenk15oojn6r48rohds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOHjkWtaySkybkzWBQrGw74ehPXnA_WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035945197654-e66av94v897elbenk15oojn6r48rohds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
