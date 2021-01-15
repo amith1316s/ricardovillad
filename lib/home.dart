@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'criar_jogo.dart';
 import 'mycolors.dart';
+import 'comissao.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -93,6 +94,9 @@ class _HomeState extends State<Home> {
                   TabItem(8, currentIndex, 2, 'Comissao', () {
                     setState(() {
                       currentIndex = 2;
+                      Navigator.of(context)
+                .push(MaterialPageRoute(builder: (context) => Camisso()));
+
                     });
                   }),
                   TabItem(4, currentIndex, 3, 'Sair', () {

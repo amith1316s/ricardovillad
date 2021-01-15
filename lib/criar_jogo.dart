@@ -84,8 +84,8 @@ class _CriarJogoState extends State<CriarJogo> {
                           duration: Duration(seconds: 1),
                         );
 
-                        ScaffoldMessenger.of(widget.context)
-                            .showSnackBar(snackBar);
+                      //  ScaffoldMessenger.of(widget.context)
+                        //    .showSnackBar(snackBar);
                       }
                     },
                     child: Container(
